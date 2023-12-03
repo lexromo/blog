@@ -20,7 +20,7 @@ params:
   title: ChaninNantasenamat
   description: "HI there!, this my website where you will find all my projects and alittle bit more about me. **."
   keywords: [Blog, cloud computing, cybersecurity]
-  author: alex romo
+  author: Lex romo
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -55,7 +55,7 @@ params:
     imageUrl: "be-cyber1.jpg"
     imageWidth: 170
     imageHeight: 150
-    imageTitle: "Alex Romo"
+    imageTitle: "Lex Romo"
     content: my name is alex romo
     buttons:
       - name: Blogs
