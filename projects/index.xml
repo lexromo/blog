@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lex Romo</title>
-    <link>https://lexromo.net/blog/</link>
-    <description>Recent content on Lex Romo</description>
+    <title>Projects on Lex Romo</title>
+    <link>https://lexromo.net/blog/projects/</link>
+    <description>Recent content in Projects on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2023 14:42:51 -0500</lastBuildDate><atom:link href="https://lexromo.net/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://lexromo.net/blog/doc/test/</link>
-      <pubDate>Sun, 03 Dec 2023 14:42:51 -0500</pubDate>
-      
-      <guid>https://lexromo.net/blog/doc/test/</guid>
-      <description>Test page page </description>
-    </item>
-    
-    <item>
-      <title>Blog1</title>
-      <link>https://lexromo.net/blog/blogs/extra-stuff/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/blogs/extra-stuff/</guid>
-      <description>Read blog</description>
-    </item>
-    
-    <item>
-      <title>Blog2</title>
-      <link>https://lexromo.net/blog/blogs/how-to-master/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/blogs/how-to-master/</guid>
-      <description>Read blog</description>
-    </item>
-    
+    <lastBuildDate>Fri, 01 Dec 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IAM User Access Keys CLI</title>
       <link>https://lexromo.net/blog/projects/projects1/</link>
@@ -42,17 +15,6 @@
       <guid>https://lexromo.net/blog/projects/projects1/</guid>
       <description>AWS In Amazon Web Services (AWS): IAM (Identity and Access Management): IAM is a service that helps you securely control access to resources in your cloud environment. In the context of AWS (Amazon Web Services), IAM allows you to manage users, groups, and permissions to access AWS resources. Here are some key components of IAM:
 Users: IAM users are entities that you create in AWS to represent the people and services that interact with AWS.</description>
-    </item>
-    
-    <item>
-      <title>More about me</title>
-      <link>https://lexromo.net/blog/about/about/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/about/about/</guid>
-      <description>Greetings👋​, tech enthusiasts 🧑‍💻​👨‍💻​👩‍💻​, and welcome to the hub of all things innovative and cutting-edge🌐​! I&amp;rsquo;m happy to have you join our community at my blog. Whether you&amp;rsquo;re a seasoned IT professional, a curious tech novice, or someone who simply would like to see what I am up to welcome!
-More about me:
-I am Alex Romo👨‍💻​, better know as Lex Romo👦​.I have cultivated a deep fascination for the intricate realms of technology, finding a special passion in the fields of cybersecurity and cloud computing.</description>
     </item>
     
     <item>
