@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lexromo.net/blog/sitemap.xml
