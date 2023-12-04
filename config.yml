@@ -78,7 +78,7 @@ params:
     - name: github
       url: "https://github.com/lexromo"
     - name: buymeacoffee
-      url: "https://www.buymeacoffee.com/"
+      url: "https://www.buymeacoffee.com/lexromo"
 
   analytics:
     google:
