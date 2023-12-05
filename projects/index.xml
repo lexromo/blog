@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Dec 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Phishing Attack</title>
+      <link>https://lexromo.net/blog/projects/projects2/</link>
+      <pubDate>Tue, 05 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/projects2/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
       <title>Rootuser MFA Budget IAM</title>
       <link>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</link>
       <pubDate>Tue, 05 Dec 2023 23:15:00 +0700</pubDate>
@@ -29,10 +38,10 @@ Users: IAM users are entities that you create in AWS to represent the people and
     
     <item>
       <title>Project 3</title>
-      <link>https://lexromo.net/blog/projects/projects2/</link>
+      <link>https://lexromo.net/blog/projects/projects3/</link>
       <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
       
-      <guid>https://lexromo.net/blog/projects/projects2/</guid>
+      <guid>https://lexromo.net/blog/projects/projects3/</guid>
       <description> </description>
     </item>
     
