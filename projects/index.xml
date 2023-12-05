@@ -13,7 +13,7 @@
       <pubDate>Tue, 05 Dec 2023 23:15:00 +0700</pubDate>
       
       <guid>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</guid>
-      <description>AWS Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget
+      <description>AWS Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget.
 In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the initial administrative user account created when you first set up an AWS account.</description>
     </item>
     
