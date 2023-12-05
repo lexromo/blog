@@ -48,4 +48,4 @@ It's important to understand the shared responsibility model in AWS. While AWS i
 
 Let’s dive in!
 
-[Read blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/)
+[Read blog](https://lexromo.net/blog/blogs/)
