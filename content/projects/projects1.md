@@ -53,4 +53,4 @@ To use the AWS CLI, you need to install it on your local machine and configure i
 
 Let’s dive in!
 
-[Read blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/)
+[Read blog](https://lexromo.net/blog/blogs/)
