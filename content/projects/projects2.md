@@ -6,7 +6,7 @@ category:
 summary:
 description: 
 cover:
-  image: "iamuser.jpg" 
+  image:  
   alt:
   caption: 
   relative: true
