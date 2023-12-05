@@ -16,7 +16,7 @@ draft: false
 
 # AWS
 
-**Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget**
+**Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget.**
 
 ### In Amazon Web Services (AWS):
 
