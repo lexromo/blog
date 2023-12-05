@@ -21,12 +21,12 @@ I am **Alex Romo**👨‍💻​, better know as **Lex Romo**👦​.I have cult
 
 My passion lies in staying updated with the latest IT trends, indicating my proactive approach to keeping abreast of developments in the rapidly evolving field of information technology, specially cybersecurity and cloud computing. 
 
-While in my Cybersecurity degree, I was able create a phishing attack in one of my Cybersecurity classes as a final project,With the help of a tool that you can find online for free at GitHub, If you want to check my GitHub reposiroties go to the following platform:
+During my Cybersecurity degree, I was able create a phishing attack in one of my Cybersecurity classes as a final project,With the help of a tool that you can find online for free at GitHub, If you want to check my GitHub repositories go to the following platform:
 - 💻 [**GitHub**](https://github.com/)
 
 My enthusiasm for reading suggests a continuous quest for knowledge, a valuable trait in an ever-changing technological landscape.With a specific interest in cybersecurity and cloud computing, I appreciate the importance of digital security and the transformative potential of cloud technologies in shaping the future of IT. 
-My combination of curiosity, love for learning, and a focus on cutting-edge technologies positions me as someone who is well-equipped to navigate and contribute to the dynamic world of IT. I really believe that we can always find some minuts of our day to learn and read something new.
-I created this space to be able to fill up some free hours I have in my day. I do love to work and to keep my self busy.For me, work isn't just a means to an end; it's a dynamic space where ideas flourish, challenges spark innovation, and each day brings something new to the table. My Grandma used to say: "I find a sense of purpose in the hustle and bustle👵​" if I think about it, she was right!.
+My combination of curiosity, love for learning, and a focus on cutting-edge technologies positions me as someone who is well-equipped to navigate and contribute to the dynamic world of IT. I really believe that we can always find some minutes of our day to learn and read something new.
+I created this space to be able to fill up some of the free hours in my day. I do love to work and to keep my self busy.For me, work isn't just a means to an end; it's a dynamic space where ideas flourish, challenges spark innovation, and each day brings something new to the table. My Grandma used to say: "I find a sense of purpose in the hustle and bustle👵​" if I think about it, she was right!.
 
 What I've come to appreciate most is how work becomes a canvas for my creativity. Whether I'm problem-solving, brainstorming new ideas, or even just optimizing daily tasks, there's this constant flow of creative energy that makes each moment exciting. 
 
