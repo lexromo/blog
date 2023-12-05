@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lexromo.net/blog/doc/</loc>
-    <lastmod>2023-12-03T14:42:51-05:00</lastmod>
-  </url><url>
     <loc>https://lexromo.net/blog/</loc>
+    <lastmod>2023-12-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://lexromo.net/blog/projects/</loc>
+    <lastmod>2023-12-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</loc>
+    <lastmod>2023-12-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://lexromo.net/blog/doc/</loc>
     <lastmod>2023-12-03T14:42:51-05:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/doc/test/</loc>
@@ -31,12 +37,6 @@
   </url><url>
     <loc>https://lexromo.net/blog/projects/projects2/</loc>
     <lastmod>2023-12-01T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://lexromo.net/blog/projects/</loc>
-    <lastmod>2023-12-01T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</loc>
-    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/categories/</loc>
   </url><url>

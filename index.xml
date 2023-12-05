@@ -6,7 +6,17 @@
     <description>Recent content on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2023 14:42:51 -0500</lastBuildDate><atom:link href="https://lexromo.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rootuser MFA Budget IAM</title>
+      <link>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</link>
+      <pubDate>Tue, 05 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</guid>
+      <description>AWS Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget
+In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the initial administrative user account created when you first set up an AWS account.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://lexromo.net/blog/doc/test/</link>
@@ -62,16 +72,6 @@ I am Alex Romo👨‍💻​, better know as Lex Romo👦​.I have cultivated a
       
       <guid>https://lexromo.net/blog/projects/projects2/</guid>
       <description> </description>
-    </item>
-    
-    <item>
-      <title>Rootuser MFA Budget IAM</title>
-      <link>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</link>
-      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</guid>
-      <description>AWS In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the initial administrative user account created when you first set up an AWS account. The root user has the highest level of access and control within your AWS account and is, therefore, the most powerful and privileged user. Here are some key characteristics and considerations regarding the AWS root user account:
-1. Initial Setup: When you create an AWS account, you are asked to set up the root user account.</description>
     </item>
     
   </channel>
