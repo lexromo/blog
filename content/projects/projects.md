@@ -1,6 +1,6 @@
 ---
 title: "Rootuser MFA Budget IAM"
-date: 2022-04-08T23:15:00+07:00
+date: 2023-12-05T23:15:00+07:00
 slug: how-to-master-streamlit-for-data-science
 category: blog 
 summary:
@@ -15,6 +15,8 @@ draft: false
 ---
 
 # AWS
+
+**Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget**
 
 ### In Amazon Web Services (AWS):
 
@@ -41,8 +43,8 @@ The root user is the owner of the AWS account and has full control over account 
 ### 7. Shared Responsibility Model: 
 It's important to understand the shared responsibility model in AWS. While AWS is responsible for the security of the cloud infrastructure, the root user and AWS account holders are responsible for the security of their own resources and data, thats why it is very important to use MFA (Multi Factor Authentication) to have an extra security step in your AWS account. 
 
-### In summar:
- the AWS root user account is the initial and most privileged account in your AWS account. Due to its extensive access and high level of privilege, it should be protected with strong security measures, and it's recommended to create and use IAM users for day-to-day operations within your AWS environment to enhance security and manage permissions more effectively. 
+### In summary:
+ The AWS root user account is the initial and most privileged account in your AWS account. Due to its extensive access and high level of privilege, it should be protected with strong security measures, and it's recommended to create and use IAM users for day-to-day operations within your AWS environment to enhance security and manage permissions more effectively. 
 
 Let’s dive in!
 
