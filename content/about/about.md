@@ -21,7 +21,7 @@ I am **Alex Romo**👨‍💻​, better know as **Lex Romo**👦​.I have cult
 
 My passion lies in staying updated with the latest IT trends, indicating my proactive approach to keeping abreast of developments in the rapidly evolving field of information technology, specially cybersecurity and cloud computing. 
 
-During my Cybersecurity degree, I was able create a phishing attack in one of my Cybersecurity classes as a final project,With the help of a tool that you can find online for free at GitHub, If you want to check my GitHub repositories go to the following platform:
+During my Cybersecurity degree, I was able create a phishing attack in one of my Cybersecurity classes as a final project,with the help of a tool that you can find online for free at GitHub. If you want to check my GitHub repositories go to the following platform:
 - 💻 [**GitHub**](https://github.com/)
 
 My enthusiasm for reading suggests a continuous quest for knowledge, a valuable trait in an ever-changing technological landscape.With a specific interest in cybersecurity and cloud computing, I appreciate the importance of digital security and the transformative potential of cloud technologies in shaping the future of IT. 
