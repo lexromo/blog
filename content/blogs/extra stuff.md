@@ -23,5 +23,3 @@ draft: false
 
 
 
-
-[Read blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/)
