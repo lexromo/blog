@@ -30,7 +30,7 @@ Listening to this podcast made me realize just how vulnerable we all are in the 
 So, as we navigate the vast world of cyberspace, let's remember Drew's story. Let's be vigilant about our digital footprints and protect ourselves from the dangers that lurk in the dark corners of the internet. After all, it's better to be safe than sorry.
 ### Importance of being aware of your digitl footprint on the internet:
 Thats why is very important to being aware of your digital footprint on the internet is crucial for mitigating cyber attacks due to several reasons:
-####
+###
 Risk Assessment: Understanding your digital footprint allows you to assess the level of risk you might face from potential cyber attacks. The more information about yourself that is available online, the higher the risk of being targeted by cybercriminals.
 
 Attack Surface Reduction: By being aware of what information about you is available online, you can take steps to reduce your attack surface. This might involve removing unnecessary personal information from public platforms, limiting the visibility of sensitive data, and being cautious about what you share online.
@@ -45,7 +45,7 @@ Data Privacy Compliance: With the increasing emphasis on data privacy regulation
 
 Cybersecurity Awareness: Ultimately, being aware of your digital footprint enhances your overall cybersecurity awareness. This awareness empowers you to recognize potential threats, adopt best practices for online security, and take proactive measures to safeguard your digital assets and personal information.
 
-#### Conclusion:
+### Conclusion:
 In conclusion, understanding and managing your digital footprint are fundamental steps in mitigating cyber attacks. By being proactive in monitoring and controlling the information you share online, you can significantly reduce your vulnerability to various cyber threats.
 
 
