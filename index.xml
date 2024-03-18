@@ -37,21 +37,21 @@ In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the 
     </item>
     
     <item>
-      <title>Blog1</title>
-      <link>https://lexromo.net/blog/blogs/extra-stuff/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/blogs/extra-stuff/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>Blog2</title>
       <link>https://lexromo.net/blog/blogs/how-to-master/</link>
       <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
       
       <guid>https://lexromo.net/blog/blogs/how-to-master/</guid>
       <description>Read blog</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity and your digital print on the internet.</title>
+      <link>https://lexromo.net/blog/blogs/extra-stuff/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/blogs/extra-stuff/</guid>
+      <description> </description>
     </item>
     
     <item>
