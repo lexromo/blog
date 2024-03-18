@@ -68,6 +68,6 @@ Lex Romo
 
 
 Connect with me at the following social platforms:
-- [**Twitter**](https://twitter.com/lexromoo)
+- [**X**](https://twitter.com/lexromoo)
 - [**LinkedIn**](https://www.linkedin.com/in/alex-romo-0b720a2a2/)
 
