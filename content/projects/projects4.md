@@ -15,7 +15,7 @@ draft: false
 ---
 
 # .bashrc:
-As a Linux enthusiast, you understand the power of customization in optimizing your workflow and enhancing productivity. At the heart of this customization lies the .bashrc file, a versatile tool that allows you to tailor your command line environment to suit your needs.
+As a Linux enthusiast, you understand the power of customization in optimizing your workflow and enhancing productivity. At the heart of this customization lies the .bashrc file, a versatile tool I like to use that allows you to tailor your command line environment to suit your needs.
 
 By configuring your .bashrc file, you can create shortcuts and aliases for frequently used commands, enabling swift navigation and execution of tasks. Whether it's accessing commonly used directories, launching preferred applications, or automating routine processes, these shortcuts can save valuable time and keystrokes in your daily interactions with the terminal.
 
