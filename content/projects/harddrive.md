@@ -20,7 +20,7 @@ Splitting a hard drive to install Linux refers to the process of dividing the st
 
 When you split a hard drive to install Linux, you typically allocate a portion of the disk space to be used exclusively by the Linux operating system, its associated files, and possibly additional partitions for purposes like swap space or separate home directories. This partitioning scheme allows you to have a dual-boot setup, where you can choose between booting into Linux or another operating system, such as Windows, if it's also installed on the same hard drive.
 
-## Here's a basic overview of the steps involved in splitting a hard drive to install Linux:
+## Here's a basic overview of the steps I used before splitting my hard drive to install Linux:
 
 ## 1. **Backup Data**: 
 Before partitioning your hard drive, it's crucial to back up any important data to prevent accidental loss during the partitioning process.
