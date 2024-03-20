@@ -54,3 +54,7 @@ In summary, studying Linux is important for both personal and professional devel
 
 ###
 
+Connect with me at the following social platforms:
+- [**X**](https://twitter.com/lexromoo)
+- [**LinkedIn**](https://www.linkedin.com/in/alex-romo-0b720a2a2/)
+
