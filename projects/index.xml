@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Split Hard drive to install another OS</title>
+      <link>https://lexromo.net/blog/projects/harddrive/</link>
+      <pubDate>Wed, 20 Mar 2024 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/harddrive/</guid>
+      <description>split hard drive to install linux: Splitting a hard drive to install Linux refers to the process of dividing the storage space on a physical hard drive into multiple partitions or sections, with the intention of dedicating one or more of these partitions specifically for installing a Linux operating system.
+When you split a hard drive to install Linux, you typically allocate a portion of the disk space to be used exclusively by the Linux operating system, its associated files, and possibly additional partitions for purposes like swap space or separate home directories.</description>
+    </item>
+    
     <item>
       <title>Phishing Attack (Cybersecurity class final project)</title>
       <link>https://lexromo.net/blog/projects/projects2/</link>
@@ -44,6 +54,15 @@ In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the 
       <guid>https://lexromo.net/blog/projects/projects1/</guid>
       <description>AWS In Amazon Web Services (AWS): IAM (Identity and Access Management): IAM is a service that helps you securely control access to resources in your cloud environment. In the context of AWS (Amazon Web Services), IAM allows you to manage users, groups, and permissions to access AWS resources. Here are some key components of IAM:
 Users: IAM users are entities that you create in AWS to represent the people and services that interact with AWS.</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://lexromo.net/blog/projects/projects4/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/projects4/</guid>
+      <description> </description>
     </item>
     
     <item>

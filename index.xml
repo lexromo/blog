@@ -6,7 +6,17 @@
     <description>Recent content on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Split Hard drive to install another OS</title>
+      <link>https://lexromo.net/blog/projects/harddrive/</link>
+      <pubDate>Wed, 20 Mar 2024 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/harddrive/</guid>
+      <description>split hard drive to install linux: Splitting a hard drive to install Linux refers to the process of dividing the storage space on a physical hard drive into multiple partitions or sections, with the intention of dedicating one or more of these partitions specifically for installing a Linux operating system.
+When you split a hard drive to install Linux, you typically allocate a portion of the disk space to be used exclusively by the Linux operating system, its associated files, and possibly additional partitions for purposes like swap space or separate home directories.</description>
+    </item>
+    
     <item>
       <title>Cybersecurity and your digital print on the internet.</title>
       <link>https://lexromo.net/blog/blogs/extra-stuff/</link>
@@ -83,6 +93,15 @@ Users: IAM users are entities that you create in AWS to represent the people and
       <description>Greetings👋​, tech enthusiasts 🧑‍💻​👨‍💻​👩‍💻​, and welcome to the hub of all things innovative and cutting-edge🌐​! I&amp;rsquo;m happy to have you join our community at my blog. Whether you&amp;rsquo;re a seasoned IT professional, a curious tech novice, or someone who simply would like to see what I am up to welcome!
 More about me:
 I am Alex Romo👨‍💻​, better know as Lex Romo👦​. I have cultivated a deep fascination for the intricate realms of technology, finding a special passion in the fields of cybersecurity and cloud computing.</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://lexromo.net/blog/projects/projects4/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/projects4/</guid>
+      <description> </description>
     </item>
     
     <item>
