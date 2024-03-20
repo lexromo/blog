@@ -31,22 +31,22 @@ So seize the opportunity to fine-tune your .bashrc file, exploring its capabilit
 
 ## Here's what I like to do with the .bashrc file the most:
 
-##  Customize Shell Environment: 
+###  Customize Shell Environment: 
   You can use .bashrc to set environment variables, which are key-value pairs that define the shell's behavior and settings. For example, you might set the PATH variable to include additional directories where executable files are located.
 
-## Define Aliases: 
+### Define Aliases: 
   You can define aliases, which are shortcuts for longer commands. For example, you can create an alias like alias ll='ls -l' to make ll execute the ls -l command.
 
-##  Define Functions: 
+###  Define Functions: 
   You can define custom functions in .bashrc that can be used just like regular commands.
 
-##  Customize the Prompt: 
+###  Customize the Prompt: 
   You can customize the prompt displayed in the shell by modifying the PS1 variable.
 
-##  Execute Commands: 
+###  Execute Commands: 
   You can include commands in .bashrc that you want to run automatically each time you start a new shell session. This can include running scripts, starting applications, or setting up the environment.
 
-##  Load Additional Configuration Files: 
+###  Load Additional Configuration Files: 
   .bashrc can also be used to load additional configuration files, such as .bash_aliases or .bash_profile, allowing you to organize your shell configurations more effectively.
 
 ###
