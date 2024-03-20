@@ -1,5 +1,5 @@
 ---
-title: "Split Hard drive to install linux"
+title: "Split Hard drive to install Linux"
 date: 2024-03-20T23:15:00+07:00
 slug: 
 category: 
