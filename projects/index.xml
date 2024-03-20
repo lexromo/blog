@@ -48,6 +48,16 @@ In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the 
     </item>
     
     <item>
+      <title>Configure your .bashcr file in Linux</title>
+      <link>https://lexromo.net/blog/projects/projects4/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/projects4/</guid>
+      <description>.bashrc: As a Linux enthusiast, you understand the power of customization in optimizing your workflow and enhancing productivity. At the heart of this customization lies the .bashrc file, a versatile tool that allows you to tailor your command line environment to suit your needs.
+By configuring your .bashrc file, you can create shortcuts and aliases for frequently used commands, enabling swift navigation and execution of tasks. Whether it&amp;rsquo;s accessing commonly used directories, launching preferred applications, or automating routine processes, these shortcuts can save valuable time and keystrokes in your daily interactions with the terminal.</description>
+    </item>
+    
+    <item>
       <title>IAM User Access Keys CLI</title>
       <link>https://lexromo.net/blog/projects/projects1/</link>
       <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
@@ -55,15 +65,6 @@ In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the 
       <guid>https://lexromo.net/blog/projects/projects1/</guid>
       <description>AWS In Amazon Web Services (AWS): IAM (Identity and Access Management): IAM is a service that helps you securely control access to resources in your cloud environment. In the context of AWS (Amazon Web Services), IAM allows you to manage users, groups, and permissions to access AWS resources. Here are some key components of IAM:
 Users: IAM users are entities that you create in AWS to represent the people and services that interact with AWS.</description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://lexromo.net/blog/projects/projects4/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/projects/projects4/</guid>
-      <description> </description>
     </item>
     
     <item>
