@@ -6,7 +6,7 @@ category:
 summary:
 description: 
 cover:
-  image:  
+  image: "disk-harddrive.jpg"
   alt:
   caption: 
   relative: true
