@@ -18,6 +18,16 @@ When you split a hard drive to install Linux, you typically allocate a portion o
     </item>
     
     <item>
+      <title>Encryption and Decryption Python Script</title>
+      <link>https://lexromo.net/blog/projects/projects3/</link>
+      <pubDate>Thu, 01 Feb 2024 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/projects3/</guid>
+      <description>Encryption and Decryption Python Script: I wanted to share with you the project I recently completed for our university course, which involved creating a Python script for encryption and decryption. This project was a fascinating exploration into the world of cryptography and programming, and I&amp;rsquo;m excited to tell you more about it.
+First and foremost, cryptography plays a crucial role in securing sensitive information in today&amp;rsquo;s digital age. Whether it&amp;rsquo;s protecting personal communications, securing financial transactions, or safeguarding sensitive data, encryption serves as a vital tool for ensuring confidentiality and privacy.</description>
+    </item>
+    
+    <item>
       <title>Phishing Attack (Cybersecurity class final project)</title>
       <link>https://lexromo.net/blog/projects/projects2/</link>
       <pubDate>Tue, 05 Dec 2023 23:15:00 +0700</pubDate>
@@ -35,16 +45,6 @@ Engaging in such activities is against the law and violates ethical standards. I
       <guid>https://lexromo.net/blog/projects/how-to-master-streamlit-for-data-science/</guid>
       <description>AWS Here I create a Root user, I activated MFA to enhance the security of our AWS account. I activated the IAM because by default it is deactivated, and finally I activated and created a budget, so AWS can let us know when we are reaching our max budget.
 In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the initial administrative user account created when you first set up an AWS account.</description>
-    </item>
-    
-    <item>
-      <title>Encryption and Decryption Python Script</title>
-      <link>https://lexromo.net/blog/projects/projects3/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/projects/projects3/</guid>
-      <description>Encryption and Decryption Python Script: I wanted to share with you the project I recently completed for our university course, which involved creating a Python script for encryption and decryption. This project was a fascinating exploration into the world of cryptography and programming, and I&amp;rsquo;m excited to tell you more about it.
-First and foremost, cryptography plays a crucial role in securing sensitive information in today&amp;rsquo;s digital age. Whether it&amp;rsquo;s protecting personal communications, securing financial transactions, or safeguarding sensitive data, encryption serves as a vital tool for ensuring confidentiality and privacy.</description>
     </item>
     
     <item>
