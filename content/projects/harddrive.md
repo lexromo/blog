@@ -14,7 +14,7 @@ showtoc: true
 draft: false
 ---
 
-# split hard drive to install linux: 
+# Split hard drive to install linux: 
 
 Splitting a hard drive to install Linux refers to the process of dividing the storage space on a physical hard drive into multiple partitions or sections, with the intention of dedicating one or more of these partitions specifically for installing a Linux operating system.
 

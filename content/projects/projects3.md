@@ -28,3 +28,8 @@ Additionally, collaborating with classmates and seeking feedback from our profes
 ###
 
 In conclusion, developing the Python script for encryption and decryption was a rewarding experience that allowed me to merge theoretical knowledge with practical application. It not only expanded my understanding of cryptography but also enhanced my programming skills and fostered collaboration within our academic community. I'm excited to continue exploring the fascinating world of cybersecurity and cryptography as we progress through our studies.
+
+
+Connect with me at the following social platforms:
+- [**X**](https://twitter.com/lexromoo)
+- [**LinkedIn**](https://www.linkedin.com/in/alex-romo-0b720a2a2/)
