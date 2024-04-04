@@ -60,13 +60,13 @@ To inspect the contents of the authorized_keys file, there are several methods a
 
 Here's a step-by-step guide using the cat command:
 
-    Open a terminal window on your system.
+Open a terminal window on your system.
 
-    Navigate to the .ssh directory by entering the following command:
-      cd ~/.ssh
+Navigate to the .ssh directory by entering the following command:
+    cd ~/.ssh
 
-    Once you're in the .ssh directory, use the cat command to display the contents of the authorized_keys file. Type the following command:
-      cat authorized_keys
+Once you're in the .ssh directory, use the cat command to display the contents of the authorized_keys file. Type the following command:
+    cat authorized_keys
 
 
 Executing this command will render the content of the file directly within the terminal interface.
@@ -75,7 +75,7 @@ Executing this command will render the content of the file directly within the t
 
 You might not have a .ssh directory and the authorized_keys file, so lets fix that!
 
-* Create the .ssh directory: 
+Create the .ssh directory: 
 
     mkdir ~/.ssh
 
