@@ -97,3 +97,10 @@ The permissions are important! It won't work without the right permissions!
 Now you can add the public key to the authorized_keys file:
 
     cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+
+
+
+
+##
+
+MORE COMMING UP!
