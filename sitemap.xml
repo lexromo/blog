@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lexromo.net/blog/blogs/</loc>
-    <lastmod>2024-03-30T23:15:00+07:00</lastmod>
+    <loc>https://lexromo.net/blog/projects/bootloader/</loc>
+    <lastmod>2024-04-03T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/</loc>
+    <lastmod>2024-04-03T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://lexromo.net/blog/projects/</loc>
+    <lastmod>2024-04-03T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://lexromo.net/blog/blogs/</loc>
     <lastmod>2024-03-30T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/blogs/phishingtext/</loc>
     <lastmod>2024-03-30T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/projects/projects6/</loc>
-    <lastmod>2024-03-24T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://lexromo.net/blog/projects/</loc>
     <lastmod>2024-03-24T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://lexromo.net/blog/projects/harddrive/</loc>
