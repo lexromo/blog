@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH authorized_keys file</title>
+      <link>https://lexromo.net/blog/projects/authorizedkeys/</link>
+      <pubDate>Thu, 04 Apr 2024 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/projects/authorizedkeys/</guid>
+      <description>Hello everyone! I&amp;rsquo;m back again. Right now, I&amp;rsquo;m diving into learning how to use Ansible. And guess what? While I was learning some new stuff, I realized something important—I didn&amp;rsquo;t have an authorized_keys file. So, it&amp;rsquo;s time to figure out how to deal with that!
+What is an Authorized_keys file in SSH? The SSH authorized_keys file is a critical component of SSH (Secure Shell) authentication. It&amp;rsquo;s a file located on the server that contains a list of public keys that are authorized to access the server.</description>
+    </item>
+    
     <item>
       <title>Bootloader Issue</title>
       <link>https://lexromo.net/blog/projects/bootloader/</link>
