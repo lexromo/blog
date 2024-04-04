@@ -53,3 +53,20 @@ While it's feasible to manually modify authorized_keys to manage keys, best prac
 The authorized_keys file assumes a pivotal role in this authentication flow by housing the public keys sanctioned for server access.
 
 Administrators wield control over server access by administering the authorized_keys file. They possess the capability to grant or revoke access by adding or removing a user's public key from the file, thereby regulating server entry.
+
+## Inspect the contents of the authorized_keys file:
+
+To inspect the contents of the authorized_keys file, there are several methods available, including using a text editor or command-line tools such as cat or less.
+
+Here's a step-by-step guide using the cat command:
+
+    Open a terminal window on your system.
+
+    Navigate to the .ssh directory by entering the following command:
+      cd ~/.ssh
+
+    Once you're in the .ssh directory, use the cat command to display the contents of the authorized_keys file. Type the following command:
+      cat authorized_keys
+
+      
+Executing this command will render the content of the file directly within the terminal interface.
