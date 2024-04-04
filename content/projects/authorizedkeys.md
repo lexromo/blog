@@ -68,5 +68,25 @@ Here's a step-by-step guide using the cat command:
     Once you're in the .ssh directory, use the cat command to display the contents of the authorized_keys file. Type the following command:
       cat authorized_keys
 
-      
+
 Executing this command will render the content of the file directly within the terminal interface.
+
+## Create the .ssh directory and the authorized_keys file the first time.
+
+You might not have a .ssh directory and the authorized_keys file, so lets fix that!
+
+* Create the .ssh directory: 
+
+    mkdir ~/.ssh
+
+Set the right permissions:
+
+    chmod 700 ~/.ssh
+
+Create the authorized_keys file:
+
+    touch ~/.ssh/authorized_keys
+
+Set the right permissions:
+
+    chmod 600 ~/.ssh/authorized_keys
