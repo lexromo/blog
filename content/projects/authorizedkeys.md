@@ -25,5 +25,16 @@ The SSH authorized_keys file is a critical component of SSH (Secure Shell) authe
 
     ~/.ssh/authorized_keys file
 
-###
+## Lets understand SSH Authentication Keys
+
+
+1. **Key Generation:** Users create a pair of keys: a private key and a public key. The private key remains on the user's local machine and serves as their authentication credential. Meanwhile, the public key is distributed to remote servers to confirm the user's identity.
+
+2. **Public Key Installation:** Users upload their public key onto the remote server(s) they intend to access by appending it to the server's authorized_keys file. Typically, this file resides in the user's home directory on the remote server.
+
+3. **Initiating Connection:** Users commence an SSH connection with the remote server by specifying the server's IP address or hostname and providing the path to their private key.
+
+4. **Authentication:** Upon receiving the connection request, the remote server presents a challenge to the user. This challenge gets encrypted using the user's public key. Subsequently, the user decrypts the challenge using their private key and returns the decrypted response to the server.
+
+5. **Access Granted:** If the decrypted response aligns with the anticipated value, the remote server authorizes access for the user, allowing them to log in securely.
 
