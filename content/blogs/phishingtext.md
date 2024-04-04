@@ -39,4 +39,4 @@ These fraudulent messages typically contain a sense of urgency or an enticing of
 Text phishing can be particularly effective due to the immediacy of text messages and the tendency for individuals to trust messages received on their mobile devices. To protect against text phishing, it's essential to remain vigilant and skeptical of unsolicited messages, especially those requesting sensitive information or urging immediate action. Verifying the legitimacy of the sender by contacting them through official channels or independently searching for their contact information can help thwart text phishing attempts. Additionally, using security software on your mobile device and regularly updating it can provide an extra layer of defense against smishing attacks.
 ###
 MORE COMMING UP
-[Read blog](https://)
+
