@@ -13,7 +13,7 @@
       <pubDate>Wed, 03 Apr 2024 23:15:00 +0700</pubDate>
       
       <guid>https://lexromo.net/blog/projects/bootloader/</guid>
-      <description>Dual-booting Debian 12 and Windows 11 offers the best of both worlds, allowing users to harness the power of Linux and Windows on a single system. However, configuring the GRUB bootloader to manage both operating systems can sometimes lead to issues.I had the bad luck to have some dual-booting issues with my operating systems,but in my world, obstacles are not roadblocks; they are merely opportunities for growth and exploration. Each challenge is met with enthusiasm and mettle, as they embark on a quest for knowledge and mastery, and here I will explain you, how I solve this problem.</description>
+      <description>Dual-booting Debian 12 and Windows 11 offers the best of both worlds, allowing users to harness the power of Linux and Windows on a single system. However, configuring the GRUB bootloader to manage both operating systems can sometimes lead to issues.I had the bad luck to have some dual-booting issues with my operating systems,but in my world, obstacles are not roadblocks; they are merely opportunities for growth and exploration. Each challenge is met with enthusiasm and mettle, as they embark on a quest for knowledge and mastery, and here I will explain you, how I solved this problem.</description>
     </item>
     
     <item>
