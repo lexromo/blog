@@ -38,3 +38,18 @@ The SSH authorized_keys file is a critical component of SSH (Secure Shell) authe
 
 5. **Access Granted:** If the decrypted response aligns with the anticipated value, the remote server authorizes access for the user, allowing them to log in securely.
 
+The SSH protocol operates with two integral components: the client and the server. SSH key-based authentication leverages cryptographic keys to validate the user's authorization.
+
+When the correct SSH key is provided, it enables users to log in seamlessly without requiring manual input of a username or password.
+
+Let's delve deeper into the mechanics.
+
+The SSH authorized_keys file resides within the user's home directory on the remote server. Its purpose is to catalog the public keys authorized for accessing the user's account.
+
+During an SSH key-based login attempt, the server cross-references the user's public key with entries in the authorized_keys file to confirm the user's legitimacy.
+
+While it's feasible to manually modify authorized_keys to manage keys, best practice advocates for utilizing the ssh-copy-id command. This command streamlines the process by appending the user's public key to the remote server's authorized_keys file, preserving existing keys, and adjusting file permissions to facilitate SSH key-based authentication.
+
+The authorized_keys file assumes a pivotal role in this authentication flow by housing the public keys sanctioned for server access.
+
+Administrators wield control over server access by administering the authorized_keys file. They possess the capability to grant or revoke access by adding or removing a user's public key from the file, thereby regulating server entry.
