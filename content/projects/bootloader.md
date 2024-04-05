@@ -49,5 +49,9 @@ System updates or upgrades, particularly those involving the kernel or GRUB itse
 
 Addressing bootloader GRUB issues often involves troubleshooting steps such as repairing or reinstalling GRUB, checking and correcting configuration files, verifying UEFI settings, ensuring Secure Boot compatibility, and repairing any damaged partitions. It may require using live environments, bootable USB drives, or recovery tools to access the system and make necessary repairs.
 
-##
+## My problem with my bootloader GRUB was:
+
+Bootloader menue missing, I was not able to see Windows 11 while I started my PC. 
+
+
 MORE COMMING UP
