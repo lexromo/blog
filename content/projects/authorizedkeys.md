@@ -92,7 +92,7 @@ Set the right permissions:
     chmod 600 ~/.ssh/authorized_keys
 
 
-The permissions are important! It won't work without the right permissions!
+The permissions are very very important! It won't work without the right permissions!
 
 Now you can add the public key to the authorized_keys file:
 
