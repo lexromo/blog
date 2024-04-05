@@ -51,7 +51,7 @@ Addressing bootloader GRUB issues often involves troubleshooting steps such as r
 
 ## My problem with my bootloader GRUB was:
 
-Bootloader menue missing, I was not able to see Windows 11 while I started my PC. 
+I was not able to see Windows 11 when I started my PC. 
 
 
 MORE COMMING UP
