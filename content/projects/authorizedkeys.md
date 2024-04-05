@@ -6,7 +6,7 @@ category:
 summary:
 description: 
 cover:
-  image:  
+  image: "ssh.png"
   alt:
   caption: 
   relative: true
