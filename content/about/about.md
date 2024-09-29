@@ -13,7 +13,7 @@ cover:
 showtoc: false
 draft: false
 ---
-Greetings👋​, tech enthusiasts 🧑‍💻​👨‍💻​👩‍💻​, and welcome to the hub of all things innovative and cutting-edge🌐​! I'm happy to have you join our community at my blog. Whether you're an IT professional, a curious tech novice, or someone who simply would like to see what I am up to **welcome**!
+Greetings👋​, tech enthusiasts 🧑‍💻​👨‍💻​👩‍💻​, and welcome to the hub of all things innovative and cutting-edge🌐​! I'm happy to have you join our community at my blog. Whether you're an IT professional, a curious tech novice, or someone who simply would like to see what I am up to **Welcome**!
 
 **More about me:**
 
