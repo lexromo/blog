@@ -20,7 +20,7 @@ Hey everyone, do yourself a favour: go and get your self some popcorn because I 
 Imagine this: I'm going about my day, minding my own business as usuall, when suddenly, my phone buzzes with an incoming text message. Expecting it to be yet another notification from a friend or a reminder about an upcoming appointment, I casually glance at the screen, only to be met with a message that sends my heart racing.
 
 ...
-![My Image](/static/phishin1.PNG)
+<img src="/image1.jpg">
 ...
 
 
