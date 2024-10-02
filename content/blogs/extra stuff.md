@@ -32,7 +32,7 @@ So, as we navigate the vast world of cyberspace, let's remember Drew's story. Le
 Thats why is very important to being aware of your digital footprint on the internet is crucial for mitigating cyber attacks due to several reasons:
 ###
 #### Risk Assessment: 
-Understanding your digital footprint allows you to assess the level of risk you might face from potential cyber attacks. The more information about yourself that is available online, the higher the risk of being targeted by cybercriminals.
+Understanding your digital footprint allows you to assess the level of risk you might face from potential cyber attacks. The more information about yourself that is available online, the higher the risk of being targeted by cybercriminals. All my professors from my University program are always telling us, we should put all our information on Linkedin, someonehow my gut feelings tell me otherwise.  
 
 #### Attack Surface Reduction: 
 By being aware of what information about you is available online, you can take steps to reduce your attack surface. This might involve removing unnecessary personal information from public platforms, limiting the visibility of sensitive data, and being cautious about what you share online.
