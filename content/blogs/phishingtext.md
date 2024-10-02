@@ -19,6 +19,10 @@ Hey everyone, do yourself a favour: go and get your self some popcorn because I 
 
 Imagine this: I'm going about my day, minding my own business as usuall, when suddenly, my phone buzzes with an incoming text message. Expecting it to be yet another notification from a friend or a reminder about an upcoming appointment, I casually glance at the screen, only to be met with a message that sends my heart racing.
 
+...
+![My Image](/phishin1.PNG)
+...
+
 
 The text claims to be from a reputable company, offering me a dream job opportunity with enticing perks and a promising salary. At first glance, I'm thrilled - could this be the break I've been waiting for? But as I delve deeper into the message, alarm bells start ringing in the back of my mind.
 
