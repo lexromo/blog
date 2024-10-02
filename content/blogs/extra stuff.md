@@ -35,7 +35,7 @@ Thats why is very important to being aware of your digital footprint on the inte
 Understanding your digital footprint allows you to assess the level of risk you might face from potential cyber attacks. The more information about yourself that is available online, the higher the risk of being targeted by cybercriminals. All my professors from my University program are always telling us, we should put all our information on Linkedin, someonehow my gut feelings tell me otherwise.  
 
 #### Attack Surface Reduction: 
-By being aware of what information about you is available online, you can take steps to reduce your attack surface. This might involve removing unnecessary personal information from public platforms, limiting the visibility of sensitive data, and being cautious about what you share online.
+By being aware of what information about you is available online, you can take steps to reduce your attack surface. This might involve removing unnecessary personal information from public platforms, limiting the visibility of sensitive data, and being cautious about what you share online. One book I would totaly recomend you would be: The Art of Invisibility, you will learn how to be invisible in todays world, where everyone over shares way too much. 
 
 #### Identity Theft Prevention: 
 Cyber attackers often exploit personal information available online to perpetrate identity theft. By monitoring your digital footprint and minimizing the exposure of sensitive data, you can reduce the risk of falling victim to identity theft.
