@@ -15,7 +15,7 @@ draft: false
 ---
 
 # 
-Hey everyone, gather around for a cautionary tale from the digital frontier. Today, I want to share a recent experience that left me both startled and enlightened about the dangers lurking in the depths of our mobile devices: a job offer text phishing scam.
+Hey everyone, do yourself a favour: go and get your self some popcorn because I have for you today a Halloween tale from the digital world. Today, I want to share a recent experience that left me both startled and enlightened about the dangers lurking in the depths of our mobile devices: a job offer text phishing scam.
 
 Imagine this: I'm going about my day, minding my own business as usuall, when suddenly, my phone buzzes with an incoming text message. Expecting it to be yet another notification from a friend or a reminder about an upcoming appointment, I casually glance at the screen, only to be met with a message that sends my heart racing.
 
