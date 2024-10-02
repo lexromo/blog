@@ -22,7 +22,7 @@ Imagine this: I'm going about my day, minding my own business as usuall, when su
 
 The text claims to be from a reputable company, offering me a dream job opportunity with enticing perks and a promising salary. At first glance, I'm thrilled - could this be the break I've been waiting for? But as I delve deeper into the message, alarm bells start ringing in the back of my mind.
 
-Something feels off - the language is slightly too informal, the offer seems too good to be true, and there's a suspicious link urging me to "click here for more details." That's when it hits me: I've stumbled upon a text phishing attempt, cunningly disguised as a golden opportunity.
+Something feels very strange, the language is slightly too informal, the offer seems too good to be true, and there's a suspicious link urging me to "click here for more details." That's when it hits me: I've stumbled upon a text phishing attempt, cunningly disguised as a golden opportunity.
 
 In that moment of realization, I resist the temptation to click on the link and instead, take a step back to assess the situation. With a quick search online, I discover that the company mentioned in the text has no record of such job openings, confirming my suspicions that this is indeed a scam.
 
