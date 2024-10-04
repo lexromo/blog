@@ -30,6 +30,8 @@ Phishing attacks are illegal when conducted without explicit permission from the
 ### Obtain Authorization:
 
 Before beginning the phishing simulation, I made sure to get explicit permission from my professor to target my classmates. This was part of a cybersecurity project for my postgraduate studies. The professor outlined the scope, and I had clear authorization to simulate a phishing attack on my classmates within the academic context.
+
+I strongly recommend always obtaining written authorization that clearly outlines the scope of your activities before conducting any cybersecurity testing. This should include all the boundaries and limitations of the engagement. As a cybersecurity professional, it's essential to make this a habit to ensure that your work remains ethical, legal, and transparent at all times.
 ### Install Zphisher:
 
 To start, I installed Zphisher on my Kali Linux system. This is an open-source tool for phishing simulations, and I used it to replicate a phishing attack. I cloned the repository from GitHub using the following commands:
