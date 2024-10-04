@@ -25,7 +25,36 @@ This was a final project from my Operating Systems Cybersecurity class.
 ## Small summary
 Phishing attacks are illegal when conducted without explicit permission from the target (in my case I had the permission because it was a final project from my cybersecurity course), and unethical hacking practices are strictly discouraged. However, if you're conducting a phishing simulation or attack as part of an authorized cybersecurity project or penetration testing be shure you have written permission from the target or organization. here's a general approach I followed using an Open Source Zphisher (a popular open-source phishing tool). 
 
-## More comming up
+## Steps I followed to Perform a Phishing Simulation Using Zphisher
 
-###
+### Obtain Authorization:
+
+
+### Install Zphisher:
+
+
+### Select Phishing Templates:
+
+
+### Choose a Phishing Method:
+
+
+### Distribute the Phishing Link:
+
+
+### Monitor Target Interaction:
+
+
+### Simulate Response Measures:
+
+
+### Create a Report:
+
+
+### Cleanup:
+
+
+### Provide Recommendations:
+
+
 
