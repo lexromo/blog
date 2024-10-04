@@ -29,8 +29,18 @@ Phishing attacks are illegal when conducted without explicit permission from the
 
 ### Obtain Authorization:
 
+Before starting any phishing simulation, secure explicit written permission from the organization or individuals you are testing. Make sure that the scope and objectives of your test are clearly defined.
 
 ### Install Zphisher:
+
+Zphisher is a tool for automating phishing attacks, often used in penetration testing. You can install Zphisher on a Kali Linux machine or any Linux distribution.
+
+Open a terminal and clone the Zphisher repository:
+
+        git clone https://github.com/htr-tech/zphisher.git
+        cd zphisher
+        chmod +x zphisher.sh
+        ./zphisher.sh
 
 
 ### Select Phishing Templates:
