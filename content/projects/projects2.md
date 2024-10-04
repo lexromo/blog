@@ -52,6 +52,24 @@ Once Zphisher was running, I had the option to choose from different phishing pa
 Zphisher provided different options for hosting the phishing page. I chose Ngrok because it allowed me to create a public URL, which made it easy to share with my classmates. After selecting Ngrok, Zphisher generated a link that I used to send out the phishing attempt.
 Although I could have used other methods like Serveo or localhost, Ngrok was the simplest way to ensure that the phishing link was accessible outside my local network.
 
+### Strategy used:
+
+As part of my phishing simulation project, I employed different strategies to target my classmates by leveraging a range of social media platforms, including Facebook, Instagram, Gmail, and Outlook. This approach allowed me to replicate real-world phishing scenarios, where attackers often tailor their tactics to the specific platform a user frequents.
+
+    Facebook:
+        For classmates who were active on Facebook, I used a phishing template that mimicked the Facebook login page. I sent personalized messages via email that appeared to come from a trusted Facebook-related source, prompting them to "log in" to resolve a security issue. The goal was to see how effectively I could entice them to click the link and enter their credentials.
+
+    Instagram:
+        For those more engaged on Instagram, I crafted messages that looked like typical Instagram notifications. These messages indicated suspicious activity on their accounts, urging them to verify their details by logging in. The Instagram phishing page resembled the actual Instagram login screen, aiming to capture their credentials in the same way.
+
+    Gmail:
+        I used a Gmail-themed phishing template for classmates who primarily used Google services. The phishing email I crafted warned of unusual login attempts on their Google account and included a link to "secure" their account. The fake login page was designed to replicate the Gmail login process, tricking users into revealing their credentials.
+
+    Outlook:
+        For classmates who relied on Outlook for their emails, I created a similar phishing email, pretending to be a security alert from Microsoft. The link redirected them to a fake Outlook login page, which was carefully designed to mimic the real thing. This helped simulate how phishing attacks can target users of professional email platforms like Outlook.
+
+By using multiple social media platforms and tailoring the phishing messages to suit the habits of my classmates, I demonstrated how attackers customize their phishing tactics based on the victim's digital behavior. This not only made the simulation more realistic but also showcased the importance of being vigilant across all platforms, not just one.
+
 ### Sending the Link to My Classmates:
 
 With the phishing link ready, I crafted an email that mimicked a legitimate message, similar to how real phishing attacks appear. I sent the link to my classmates as part of the experiment. My goal was to simulate a real-world phishing scenario, but since this was a controlled test, only my classmates—within the scope of the project—received the link.
