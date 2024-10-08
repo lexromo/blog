@@ -19,5 +19,3 @@ draft: false
 ##
 
 ###
-
-[Read blog](https://)
