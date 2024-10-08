@@ -19,6 +19,7 @@ Hey everyone, do yourself a favour: go and get your self some popcorn because I 
 
 Imagine this: I'm going about my day, minding my own business as usuall, when suddenly, my phone buzzes with an incoming text message. Expecting it to be yet another notification from a friend or a reminder about an upcoming appointment, I casually glance at the screen, only to be met with a message that sends my heart racing.
 
+![phishin1](/static/phishin1.PNG)
 The text claims to be from a reputable company, offering me a dream job opportunity with enticing perks and a promising salary. At first glance, I'm thrilled - could this be the break I've been waiting for? But as I delve deeper into the message, alarm bells start ringing in the back of my mind.
 
 Something feels very strange, the language is slightly too informal, the offer seems too good to be true, and there's a suspicious link urging me to "click here for more details." That's when it hits me: I've stumbled upon a text phishing attempt, cunningly disguised as a golden opportunity.
