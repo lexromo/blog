@@ -1,12 +1,12 @@
 ---
-title: "Project 3"
+title: "A Cybersecurity Workshop For Our Loved Ones"
 date: 2023-12-01T23:15:00+07:00
 slug: 
 category: 
 summary:
 description: 
 cover:
-  image:  
+  image: "momanddad.jpg"
   alt:
   caption: 
   relative: true
