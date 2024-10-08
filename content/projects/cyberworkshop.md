@@ -1,6 +1,6 @@
 ---
 title: "A Cybersecurity Workshop For Our Loved  Ones"
-date: 2024-10-08T23:15:00+07:00
+date: 2024-10-8T23:15:00+07:00
 slug: 
 category: 
 summary:
