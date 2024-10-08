@@ -6,7 +6,7 @@ category: blog
 summary:
 description: 
 cover:
-  image: 
+  image: "frameworks.jpg" 
   alt:
   caption: 
   relative: true
