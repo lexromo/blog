@@ -6,7 +6,7 @@ category: blog
 summary:
 description: 
 cover:
-  image: "phishin1.PNG" "phishing1.PNG"
+  image: "phishin1.PNG"
   alt:
   caption: 
   relative: true
