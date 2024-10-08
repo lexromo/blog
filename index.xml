@@ -104,15 +104,6 @@ In Amazon Web Services (AWS): The &amp;ldquo;root user&amp;rdquo; refers to the 
     </item>
     
     <item>
-      <title>Blog2</title>
-      <link>https://lexromo.net/blog/blogs/how-to-master/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/blogs/how-to-master/</guid>
-      <description>Read blog</description>
-    </item>
-    
-    <item>
       <title>Configure your .bashcr file in Linux</title>
       <link>https://lexromo.net/blog/projects/projects4/</link>
       <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
@@ -141,6 +132,15 @@ Users: IAM users are entities that you create in AWS to represent the people and
       <description>This photo was created with the help of A.I. and a photo of mine, I love technology:) Greetings👋​, tech enthusiasts 🧑‍💻​👨‍💻​👩‍💻​, and welcome to the hub of all things innovative and cutting-edge🌐​! I&amp;rsquo;m happy to have you join our community at my blog. Whether you&amp;rsquo;re an IT professional, a curious tech novice, or someone who simply would like to see what I am up to Welcome!
 More about me:
 I am Alex Romo👨‍💻​, better know as Lex Romo👦​.</description>
+    </item>
+    
+    <item>
+      <title>more comming up</title>
+      <link>https://lexromo.net/blog/blogs/clone/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/blogs/clone/</guid>
+      <description>Read blog</description>
     </item>
     
     <item>
