@@ -39,4 +39,4 @@ Looking forward to connecting with you in the vast expanse of the internet! 🌐
 
 Connect with me at the following social platforms:
 - [**X**](https://twitter.com/lexromoo)
-- [**LinkedIn**](https://www.linkedin.com/in/alex-romo-0b720a2a2/)
+- [**LinkedIn**](https://www.linkedin.com/in/alex-r-0b720a2a2/)
