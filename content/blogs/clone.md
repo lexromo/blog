@@ -19,7 +19,7 @@ Recently, I received a disturbing phishing email—one of the more aggressive an
 
 Here's a portion of what the message said:
 
-![Phishing Email](/static/email3.jpg)
+![Phishing Email](/static/email1.png)
 ##
 ![Phishing Email](/phishin1.PNG)
 ###
