@@ -20,7 +20,7 @@ Recently, I received a disturbing phishing email—one of the more aggressive an
 Here's a portion of what the message said:
 
 ! [PhishingEmail] (./static/img/email2.png)
-![PhishingEmail] 
+<img scr="email3.png" alt="phishing email"/>
 
 ##
 
