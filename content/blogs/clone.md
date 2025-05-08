@@ -21,5 +21,6 @@ Here's a portion of what the message said:
 
 ![Phishing Email](/static/email3.jpg)
 ##
-
+![Phishing Email](/email3.jpg)
 ###
+![Phishing Email](email3.jpg)
