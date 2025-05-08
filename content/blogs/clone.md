@@ -13,13 +13,6 @@ cover:
 showtoc: true
 draft: false
 
-
-Recently, I received a disturbing phishing email—one of the more aggressive and manipulative types I’ve seen. It pretended to come from my own Microsoft account and used threatening, explicit language in an attempt to scare me into sending money. The email claimed I was being spied on, recorded through Pegasus spyware, and that compromising videos of me would be sent to all my contacts if I didn’t pay up in cryptocurrency.
-
-Here's a portion of what the message said:
-
-![Phishing Email](/static/email1.png)
-
 ---
 
 #
