@@ -22,6 +22,7 @@ Recently, I received a disturbing phishing email—one of the more aggressive an
 Here's a portion of what the message said:
 
 ![Alt text](../../static/email2.png)
+![Alt text](../../static/email3.jpg)
 ##
 
 ###
