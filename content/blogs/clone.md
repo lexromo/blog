@@ -16,7 +16,7 @@ draft: false
 ---
 
 #
-![Email](/static/email3.jpg)
+![Email](/email3.jpg)
 ##
 
 ###
