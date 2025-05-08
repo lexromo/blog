@@ -19,8 +19,8 @@ Recently, I received a disturbing phishing email—one of the more aggressive an
 
 Here's a portion of what the message said:
 
-![PhishingEmail](email2.png)
-![PhishingEmail](static/email3.png)
+![PhishingEmail] (img/email2.png)
+![PhishingEmail](email3.png)
 
 ##
 
