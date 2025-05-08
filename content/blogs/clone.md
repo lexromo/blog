@@ -16,7 +16,10 @@ draft: false
 ---
 
 #
-![Email](/email3.jpg)
+![Email][def]
 ##
 
 ###
+
+
+[def]: /email3.jpg
