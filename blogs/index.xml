@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on Lex Romo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 23:15:00 +0700</lastBuildDate><atom:link href="https://lexromo.net/blog/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phishing Email be CAREFULL!!</title>
+      <link>https://lexromo.net/blog/blogs/clone/</link>
+      <pubDate>Thu, 01 May 2025 23:15:00 +0700</pubDate>
+      
+      <guid>https://lexromo.net/blog/blogs/clone/</guid>
+      <description> </description>
+    </item>
+    
     <item>
       <title>Cybersecurity Frameworks</title>
       <link>https://lexromo.net/blog/blogs/frameworks/</link>
@@ -42,15 +51,6 @@ Podcast summary: So, in this podcast, we get to hear from a guy they call &amp;l
       
       <guid>https://lexromo.net/blog/blogs/framework1/</guid>
       <description>Hello, cybersecurity enthusiasts and professionals! Today, I’m excited to share something essential that we all need to understand in our field—the importance of cybersecurity frameworks. Let’s explore this critical topic together on my blog. What is a cybersecurity framework? Cybersecurity frameworks provide structured guidelines for protecting sensitive data, securing systems, and managing risk. They serve as roadmaps for organizations to follow, ensuring they adhere to best practices, legal requirements, and industry standards.</description>
-    </item>
-    
-    <item>
-      <title>more comming up</title>
-      <link>https://lexromo.net/blog/blogs/clone/</link>
-      <pubDate>Fri, 01 Dec 2023 23:15:00 +0700</pubDate>
-      
-      <guid>https://lexromo.net/blog/blogs/clone/</guid>
-      <description> </description>
     </item>
     
   </channel>
