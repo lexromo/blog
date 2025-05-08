@@ -19,7 +19,7 @@ draft: false
 ##
 Hey everyone, I stumbled upon this fascinating podcast titled "These Teen Crypto Swappers Can Make $100,000 in 10 Mins - If They Don't Get Caught🎙Ep 112 Dirty Coms" by Jack Rhysider, and let me tell you, it's a real eye-opener.
 
-!(/static/email2.PNG)
+
 ### Podcast summary:
 So, in this podcast, we get to hear from a guy they call "Drew," although that's not his real name. Drew gives us a peek into the world of sim-swapping crypto heists, and it's quite the ride. These teenagers from the dark web are like modern-day Robin Hoods, except they're not exactly giving to the poor.
 
