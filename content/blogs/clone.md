@@ -16,10 +16,9 @@ draft: false
 ---
 
 #
-![Email][def]
+![Email](/static/email1.png)
 ##
 
 ###
 
 
-[def]: /email3.jpg
