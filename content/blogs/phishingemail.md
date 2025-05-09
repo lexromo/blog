@@ -16,7 +16,7 @@ draft: false
 ---
 
 # MORE COMMING UP
-![alt text](../../static/email3.jpg)
+![alt text](/static/email3.jpg)
 ##
 
 ###
