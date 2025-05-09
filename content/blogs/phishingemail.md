@@ -19,7 +19,7 @@ draft: false
 # MORE COMMING UPPP
 
 
-<img src="/static/email2.png" alt="Phishing Email" width="600">
+<img src="/email2.png" alt="Phishing Email" width="600">
 
 # MORE COMMING UP
 
