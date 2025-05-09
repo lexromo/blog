@@ -18,9 +18,7 @@ draft: false
 
 # MORE COMMING UPPP
 
-
-<img src="/email2.png" alt="Phishing Email" width="600">
-
+![Alt text](/images/email2.png)
 # MORE COMMING UP
 
 ##
