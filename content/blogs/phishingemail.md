@@ -16,7 +16,7 @@ draft: false
 ---
 
 # MORE COMMING UP
-![alt text](email3.jpg)
+![alt image](/home/bubu1/Documents/GitHub/blog/static/be-cyber1.jpg)
 ##
 
 ###
