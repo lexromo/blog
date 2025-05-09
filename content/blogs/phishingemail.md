@@ -17,7 +17,10 @@ draft: false
 
 
 # MORE COMMING UPPP
-![alt image](/Users/helioss/Desktop/website/blog/static/email3.jpg)
+
+
+![Alt text](../../static/email1.png)
+
 # MORE COMMING UP
 
 ##
