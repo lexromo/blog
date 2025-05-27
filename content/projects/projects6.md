@@ -22,7 +22,7 @@ Drawing on my academic background and practical knowledge, I recognized the urge
 
 Here is the CIA model:
 
-![CIA Model Diagram](cia.png)
+![CIA Model Diagram][def]
 
 
 
@@ -45,3 +45,5 @@ In the end, my journey at the company,reaffirmed the significance of education, 
 Connect with me at the following social platforms:
 - [**X**](https://twitter.com/lexromoo)
 - [**LinkedIn**](https://www.linkedin.com/in/alex-romo-0b720a2a2/)
+
+[def]: cia.png
