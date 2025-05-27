@@ -20,7 +20,9 @@ As I moved from an intern to a permanent role at my workplace, I was excited abo
 Drawing on my academic background and practical knowledge, I recognized the urgency of implementing cybersecurity measures. Our company's reliance on digital systems meant that we were potentially vulnerable to a range of threats, from data breaches to malicious attacks. It was clear that establishing a robust cybersecurity framework was essential for safeguarding our daily operations.
 
 
-![CIA Model Diagram](/content/![cia.png ](https://))
+Here is the CIA model:
+
+![CIA Model Diagram](cia.png)
 
 
 
