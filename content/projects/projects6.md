@@ -20,7 +20,8 @@ As I moved from an intern to a permanent role at my workplace, I was excited abo
 Drawing on my academic background and practical knowledge, I recognized the urgency of implementing cybersecurity measures. Our company's reliance on digital systems meant that we were potentially vulnerable to a range of threats, from data breaches to malicious attacks. It was clear that establishing a robust cybersecurity framework was essential for safeguarding our daily operations.
 
 
-<img src="/static/email3.jpg" alt="Confidentiality Diagram" width="600" style="display:block; margin:auto;" />
+![CIA Model Diagram](/content/![cia.png ](https://))
+
 
 
 Armed with the principles of the CIA model – Confidentiality, Integrity, and Availability – instilled in me during my studies, I undertook the responsibility of implementing a comprehensive cybersecurity architecture at the company.
