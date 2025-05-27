@@ -22,7 +22,7 @@ Drawing on my academic background and practical knowledge, I recognized the urge
 
 Here is the CIA model:
 
-![](cia.JPEG)
+![](../../static/phishin1.PNG)
 
 
 
