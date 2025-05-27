@@ -22,8 +22,7 @@ Drawing on my academic background and practical knowledge, I recognized the urge
 
 Here is the CIA model:
 
-![](https://github.com/lexromo/blog/blob/4f1d83844ac6db257a9b47fe0ffd179b910b6dbe/static/be-cyber1.jpg)
-
+![](static/img/robot.JPG)
 
 
 Armed with the principles of the CIA model – Confidentiality, Integrity, and Availability – instilled in me during my studies, I undertook the responsibility of implementing a comprehensive cybersecurity architecture at the company.
