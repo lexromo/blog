@@ -22,8 +22,7 @@ Drawing on my academic background and practical knowledge, I recognized the urge
 
 Here is the CIA model:
 
-![CIA Model Diagram](/Users/helioss/Desktop/website/blog/content/projects/projects6.md
-/Users/helioss/Desktop/website/blog/static/be-cyber1.jpg)
+![CIA Model Diagram](cia.JPEG)
 
 
 
