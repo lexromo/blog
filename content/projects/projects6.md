@@ -22,7 +22,7 @@ Drawing on my academic background and practical knowledge, I recognized the urge
 
 Here is the CIA model:
 
-![](../../static/phishin1.PNG)
+![](https://github.com/lexromo/blog/blob/4f1d83844ac6db257a9b47fe0ffd179b910b6dbe/static/be-cyber1.jpg)
 
 
 
